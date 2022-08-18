@@ -1,0 +1,73 @@
+.cabecalho{
+    background-image: url("imagens/capa.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    width: 350px;
+    height: 200px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+}
+.cabecalhopaginas{
+    background-image: url("imagens/capa.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    width: 369px;
+    height: 191px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+    text-align: right;
+  
+}
+body{
+    text-align: center;
+    margin: 0;
+    background-image: url("imagens/fundomine.jpg");
+}
+.rodape{
+    text-align: center;
+    margin: 0;
+    background-image: url("imagens/rodape.png");
+    width: 450px;
+    height: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 0px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-color: darkgreen;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
